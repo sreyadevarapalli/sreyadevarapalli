@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Sreya Devarapalli  
 
-<!--
-**sreyadevarapalli/sreyadevarapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science | 2024 Graduate  
+💼 Aspiring Python Developer | Interested in Machine Learning & Cloud  
+🌍 From Anakapalli, India | Open to Relocation & Hybrid Roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Skills  
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Web:** HTML, CSS, Node.js (basic)    
+- **Database:** MySQL, SQL Server  
+- **Cloud Basics:** Google Cloud, Azure (intro level)  
+
+---
+
+## 📂 Featured Projects  
+🔹 [Excel Data Processor](#) → Python + Pandas | Cleans & summarizes data  
+🔹 [Movie Recommendation System](#) → Python ML + Streamlit | Content-based recommendations  
+
+*(Replace `#` with your repo links once uploaded)*  
+
+---
+
+## 📊 GitHub Stats  
+![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyadevarapalli&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyadevarapalli&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sreya-devarapalli-6b1884238)  
+- 📧 Email: sreyadevarapalli123@gmail.com  
+- 💻 [GitHub](https://github.com/sreyadevarapalli)  
+
+---
+
+✨ *"Quick learner | Problem Solver | Strong Communicator | Team Player"* ✨
