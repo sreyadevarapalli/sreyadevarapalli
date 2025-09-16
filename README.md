@@ -16,7 +16,7 @@
 
 ## 📂 Featured Projects  
 🔹 [Excel Data Processor](https://github.com/sreyadevarapalli/Excel-Data-Processor.git) → Python + Pandas | Cleans & summarizes data  
-🔹 [Movie Recommendation System](#) → Python ML + Streamlit | Content-based recommendations  
+🔹 [Movie Recommendation System](https://github.com/sreyadevarapalli/movie-recommender.git) → Python ML + Streamlit | Content-based recommendations  
 
 
 
