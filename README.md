@@ -15,10 +15,10 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 [Excel Data Processor](#) → Python + Pandas | Cleans & summarizes data  
+🔹 [Excel Data Processor](https://github.com/sreyadevarapalli/Excel-Data-Processor.git) → Python + Pandas | Cleans & summarizes data  
 🔹 [Movie Recommendation System](#) → Python ML + Streamlit | Content-based recommendations  
 
-*(Replace `#` with your repo links once uploaded)*  
+
 
 ---
 
