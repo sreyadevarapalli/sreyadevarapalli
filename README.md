@@ -20,14 +20,9 @@
 
 
 
----
 
-## 📊 GitHub Stats  
-![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyadevarapalli&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyadevarapalli&layout=compact&theme=radical)  
 
----
 
 ## 📫 Connect with Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sreya-devarapalli-6b1884238)  
