@@ -23,7 +23,6 @@
 
 
 
-
 ## 📫 Connect with Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sreya-devarapalli-6b1884238)  
 - 📧 Email: sreyadevarapalli123@gmail.com  
